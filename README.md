@@ -6,4 +6,4 @@ Descobri o mundo da programação algum tempo atrás e me encantei. Desde então
 
 Atualmente estou estudando desenvolvimento backend na Softex Recife.
 
-Estou usando o GitHub basicamente para manter os excecícios deste curso, mas pretendo populá-lo com muito mais, muito em breve.
+Estou usando o GitHub basicamente para manter os exercícios deste curso, mas pretendo populá-lo com muito mais, muito em breve.
