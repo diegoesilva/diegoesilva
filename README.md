@@ -1,12 +1,23 @@
 Olá! 😊
 
-Meu nome é Diego Eloy. 
+Meu nome é Diego Eloy e eu sou estudante de programação. 
 
-Descobri o mundo da programação algum tempo atrás e me encantei. Desde então, venho tentando aprender e me aperfeiçoar nessa área, um pouco a cada dia.
+Atualmente estou estudando desenvolvimento backend na Softex Recife e uma infinidade de outras tecnologias nesse mundão de meu Deus. A internet pode ser uma ótima professora.
 
-Atualmente estou estudando desenvolvimento backend na Softex Recife.
 
-Estou usando o GitHub basicamente para manter os exercícios deste curso, mas pretendo populá-lo com muito mais, muito em breve.
+Dentre outras coisas, tenho conhecimentos básicos de:
 
-![image](https://user-images.githubusercontent.com/89320699/206038490-4de9206a-76d9-4d04-a83f-1a90ebd27ce1.png) ![image](https://user-images.githubusercontent.com/89320699/206038786-994df79e-ca2a-43be-bbfd-7e50a9709e02.png)
+![image](https://user-images.githubusercontent.com/89320699/206042741-76bf1981-6eaa-4e37-b7dd-eff9b1aaf657.png)
+![image](https://user-images.githubusercontent.com/89320699/206042975-cd69dbf3-90fe-4d63-a869-c124a8f14463.png)
+![image](https://user-images.githubusercontent.com/89320699/206043011-c2a37dc9-3c56-41bd-869e-d479cb26b5fa.png)
+![image](https://user-images.githubusercontent.com/89320699/206043072-0596c880-526e-4fcd-94ca-553ab02735d2.png)
+
+*Não me limitando a isso, logicamente.*
+
+Não sou muito prolixo, então não vou me estander muito. Estou aberto e interessado para novas ideias e projetos. Então, caso tenha algo de interssante para me dizer ou propor, posso ser contactado pelos links abaixo. 
+
+Abraço! ![image](https://user-images.githubusercontent.com/89320699/206045104-de558625-08f2-43fc-817a-4b55c2e58d5f.png)
+
+
+[![image](https://user-images.githubusercontent.com/89320699/206038786-994df79e-ca2a-43be-bbfd-7e50a9709e02.png)](https://www.linkedin.com/in/diegoeloy)
 
