@@ -16,7 +16,7 @@ Dentre outras coisas, tenho conhecimentos básicos de:
 
 *Não me limitando a isso, logicamente.*
 
-Não sou muito prolixo, então não vou me estander muito. Estou sempre interessado em novas ideias e projetos. Então, caso tenha algo de interssante para me dizer ou propor, posso ser contactado pelos links abaixo. 
+Não sou muito prolixo, então não vou me estender muito. Estou sempre interessado em novas ideias e projetos. Então, caso tenha algo de interssante para me dizer ou propor, posso ser contactado pelos links abaixo. 
 
 Um grande abraço!
 
