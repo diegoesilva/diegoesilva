@@ -2,8 +2,7 @@
 
 Meu nome é **Diego Eloy** e eu sou estudante de programação. 
 
-Atualmente estou estudando desenvolvimento backend na Softex Recife e uma infinidade de outras tecnologias nesse mundão de meu Deus. A internet pode ser uma ótima professora.
-
+Atualmente estou estudando desenvolvimento backend na Softex Recife e uma infinidade de outras tecnologias de forma independente.
 
 Dentre outras coisas, tenho conhecimentos básicos de:
 
