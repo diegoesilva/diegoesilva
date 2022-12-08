@@ -17,11 +17,15 @@ Dentre outras coisas, tenho conhecimentos básicos de:
 
 Não sou muito prolixo, então não vou me estender muito. Estou sempre interessado em novas ideias e projetos. Então, caso tenha algo de interssante para me dizer ou propor, posso ser contactado pelos links abaixo. 
 
+
+<img src="https://user-images.githubusercontent.com/89320699/206322297-a171853d-7152-4daf-8484-cec021c6b94a.png" alt="qrwhatsapp" width="150"/> [![image](https://user-images.githubusercontent.com/89320699/206038786-994df79e-ca2a-43be-bbfd-7e50a9709e02.png)](https://www.linkedin.com/in/diegoeloy)
+
+
+
 Um grande abraço!
 
 ![image](https://user-images.githubusercontent.com/89320699/206045104-de558625-08f2-43fc-817a-4b55c2e58d5f.png)
 
 
-<img src="https://user-images.githubusercontent.com/89320699/206322297-a171853d-7152-4daf-8484-cec021c6b94a.png" alt="qrwhatsapp" width="150"/> [![image](https://user-images.githubusercontent.com/89320699/206038786-994df79e-ca2a-43be-bbfd-7e50a9709e02.png)](https://www.linkedin.com/in/diegoeloy)
 
 
